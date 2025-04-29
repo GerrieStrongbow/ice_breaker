@@ -1,0 +1,436 @@
+{
+    "success": true,
+    "credits_left": 100,
+    "rate_limit_left": 100,
+    "person": {
+      "publicIdentifier": "gerhard-bekker-a6867b14a",
+      "linkedInIdentifier": "ACoAACQM7zAB2YbkgTDj-doaFZRHrSzJ6maCk5U",
+      "memberIdentifier": "604827440",
+      "linkedInUrl": "https://www.linkedin.com/in/gerhard-bekker-a6867b14a",
+      "firstName": "Gerhard",
+      "lastName": "Bekker",
+      "headline": "Analytical & Strategic Thinker | Future-Oriented | Exploring AI & Business",
+      "location": "Stellenbosch, Western Cape, South Africa",
+      "summary": "I’m a Mechanical Engineer with a PhD in Thermofluid Dynamics, where my research focused on increasing the airflow and heat rejection rates of an induced-draught air-cooled condenser under windless and windy conditions. This was achieved through CFD simulation using OpenFOAM.\n\nRecognizing the rapid growth of the tech world and the immense potential of data and artificial intelligence, I transitioned into data engineering to upskill in these areas and broaden my career opportunities. Recently, I’ve developed a deeper interest in how AI can create value and solve real-world challenges across industries.\n\nI’m eager to expand my understanding of finance and business strategy to complement my technical expertise. My long-term goal is to combine these skills to tackle meaningful challenges—potentially by establishing my own company in the future. In the meantime, I’m committed to learning and growing where I can.",
+      "photoUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEqDJ_EtU-69A/profile-displayphoto-shrink_200_200/B4DZVnyPTLHYAc-/0/1741202978737?e=1751500800&v=beta&t=EDHXmnee6zNQa-P1bSip8HFEszlHGgOENmT0P7aa8WY",
+      "backgroundUrl": "https://media.licdn.com/dms/image/v2/D4D16AQFV2VJ0omYVAw/profile-displaybackgroundimage-shrink_200_800/B4DZVnsu_MG4AU-/0/1741201535531?e=1751500800&v=beta&t=SBeHMID0DSgyjj1fL86AT-i2uo2-8Yp5-W-AvWgJAaM",
+      "openToWork": false,
+      "premium": true,
+      "showVerificationBadge": true,
+      "creationDate": {
+        "month": 10,
+        "year": 2017
+      },
+      "followerCount": 401,
+      "positions": {
+        "positionsCount": 8,
+        "positionHistory": [
+          {
+            "title": "Senior CFD Engineer",
+            "companyName": "ENGYS",
+            "companyLocation": "Stellenbosch, Western Cape, South Africa · Remote",
+            "description": "Working as part of the Technical Writing and Quality Assurance teams of a computational fluid dynamics software development company. The company develops HELYX, which is the preferred simulation software choice for the majority of F1 teams.\n\n- Involved with the development and maintenance of our validation and verification system, written in Python.\n- Adding and maintaining validation and verification simulation cases.\n- Acceptance testing of new features and bug fixes for our GUI.\n- Modernised our documentation by migrating from MS Word documents to markdown files that can be source-controlled and compiled into websites or PDF files.",
+            "startEndDate": {
+              "start": {
+                "month": 2,
+                "year": 2023
+              },
+              "end": null
+            },
+            "contractType": "Full-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFsDqfwGIH3bw/company-logo_400_400/company-logo_400_400/0/1730141120808/engys_logo?e=1751500800&v=beta&t=jvOt3ej54xVi61HEV2B_qs6TIXXRE-OopgJlydzl5q4",
+            "linkedInUrl": "https://www.linkedin.com/company/1079198/",
+            "linkedInId": "1079198"
+          },
+          {
+            "title": "Co-Founder",
+            "companyName": "Cedarhill Investments (Pty) Ltd",
+            "companyLocation": "Stellenbosch, Western Cape, South Africa · Remote",
+            "description": "Co-founded a property investment company with two partners, taking a lead role in the business' operational and financial setup.\n\nKey Contributions:\n- Registered the company and opened the business banking account.\n- Secured a tenant and developed a rental agreement.\n- Managing the company's finances to ensure smooth operations.\n\nThis experience demonstrates leadership, strong organisational skills, and a solid understanding of financial processes while overseeing critical business administration tasks.",
+            "startEndDate": {
+              "start": {
+                "month": 7,
+                "year": 2023
+              },
+              "end": null
+            },
+            "contractType": "Part-time",
+            "companyLogo": null,
+            "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Cedarhill+Investments+%28Pty%29+Ltd"
+          },
+          {
+            "title": "Data Engineer",
+            "companyName": "Spatialedge (Pty) Ltd",
+            "companyLocation": "Stellenbosch, Western Cape, South Africa · Hybrid",
+            "description": "Maintaining and improving the data capabilities of a short-term loan provider.\nImplemented ETLs using SQL Server and SSIS; optimised slow-running stored procedures and SSAS cubes; automated imports and exports of data using SSIS.",
+            "startEndDate": {
+              "start": {
+                "month": 5,
+                "year": 2022
+              },
+              "end": {
+                "month": 1,
+                "year": 2023
+              }
+            },
+            "contractType": "Full-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFfC-Rf6npbWg/company-logo_400_400/company-logo_400_400/0/1631354173135?e=1751500800&v=beta&t=O9Zk1FalOxXxECKrIHi7K2csLwF-FE7XA5g-arqb1Zk",
+            "linkedInUrl": "https://www.linkedin.com/company/18022097/",
+            "linkedInId": "18022097"
+          },
+          {
+            "title": "Graduate Trainee",
+            "companyName": "Mercedes-Benz South Africa",
+            "companyLocation": "East London, Eastern Cape, South Africa · On-site",
+            "description": "Worked with the corrosion protection team in the paint shop of a large automotive company.\nInvestigated the rheology of the silicone sealant aiming to identify the root cause for inconsistent results in the sealer booth.",
+            "startEndDate": {
+              "start": {
+                "month": 3,
+                "year": 2022
+              },
+              "end": {
+                "month": 4,
+                "year": 2022
+              }
+            },
+            "contractType": "Contract",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHvTPwuoUAKPg/company-logo_400_400/company-logo_400_400/0/1698814067175?e=1751500800&v=beta&t=SrHvN7VIggyuMd0L0zdkzoeATID2lTq5mZfPAOhTu04",
+            "linkedInUrl": "https://www.linkedin.com/company/3232580/",
+            "linkedInId": "3232580"
+          },
+          {
+            "title": "Teacher & Student Assistant",
+            "companyName": "Stellenbosch University",
+            "companyLocation": "Stellenbosch, Western Cape, South Africa",
+            "description": "Assisted lecturers and students across multiple engineering courses while pursuing PhD studies.\n\n- Assisted lecturers with preparing student assistants for tutorial sessions, marking tutorial and semester tests, administering student marks, and planning a technical tour.\n- Assisted 2nd to 4th-year engineering students during tutorial sessions and practical training.",
+            "startEndDate": {
+              "start": {
+                "month": 1,
+                "year": 2017
+              },
+              "end": {
+                "month": 1,
+                "year": 2020
+              }
+            },
+            "contractType": "Part-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEp7y5pXmG5Rw/company-logo_400_400/company-logo_400_400/0/1698652588840/stellenbosch_university_logo?e=1751500800&v=beta&t=UNgNvGLMi-BK4YDQSh-JlScfie-FBoe0md33gT8V8S0",
+            "linkedInUrl": "https://www.linkedin.com/company/8047/",
+            "linkedInId": "8047"
+          },
+          {
+            "title": "Student Intern",
+            "companyName": "CA DU TOIT EASTERN CAPE",
+            "companyLocation": "Port Elizabeth, Eastern Cape, South Africa",
+            "description": "Vacation training at a Mechanical and Electrical Engineering consulting company.\n- Shadowed an engineer responsible for the HVAC system of a new building at NMU University.\n- Shadowed engineers at fresh- and wastewater facilities.",
+            "startEndDate": {
+              "start": {
+                "month": 12,
+                "year": 2015
+              },
+              "end": {
+                "month": 12,
+                "year": 2015
+              }
+            },
+            "contractType": "Internship",
+            "companyLogo": null,
+            "linkedInUrl": "https://www.linkedin.com/company/35204639/",
+            "linkedInId": "35204639"
+          },
+          {
+            "title": "Student Intern",
+            "companyName": "Mercedes-Benz South Africa",
+            "companyLocation": "East London, Eastern Cape, South Africa",
+            "description": "Vacation training at an automotive production plant.\n- Worked with the facilities planning team under the supervision of two engineers.\n- Assisted with timing plans, invoice filing, and project-related works.\n- Assisted with overseeing a cladding project during the annual shut-down.",
+            "startEndDate": {
+              "start": {
+                "month": 12,
+                "year": 2014
+              },
+              "end": {
+                "month": 12,
+                "year": 2014
+              }
+            },
+            "contractType": "Internship",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHvTPwuoUAKPg/company-logo_400_400/company-logo_400_400/0/1698814067175?e=1751500800&v=beta&t=SrHvN7VIggyuMd0L0zdkzoeATID2lTq5mZfPAOhTu04",
+            "linkedInUrl": "https://www.linkedin.com/company/3232580/",
+            "linkedInId": "3232580"
+          },
+          {
+            "title": "Student Intern",
+            "companyName": "BASF",
+            "companyLocation": "Port Elizabeth, Eastern Cape, South Africa",
+            "description": "Vacation training at a catalytic converter manufacturing plant.\n- Shadowed an engineer in the Maintenace Department.\n- Received training on the Occupational Health and Safety Act.",
+            "startEndDate": {
+              "start": {
+                "month": 6,
+                "year": 2014
+              },
+              "end": {
+                "month": 6,
+                "year": 2014
+              }
+            },
+            "contractType": "Internship",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGF849M5dOkEA/company-logo_400_400/company-logo_400_400/0/1720593261563/basf_logo?e=1751500800&v=beta&t=Bfi_s3JecVe07OlGSB0VsKCYLlaDDJWq4wnSH9OFRvY",
+            "linkedInUrl": "https://www.linkedin.com/company/2633/",
+            "linkedInId": "2633"
+          }
+        ]
+      },
+      "schools": {
+        "educationsCount": 3,
+        "educationHistory": [
+          {
+            "degreeName": "Doctor of Philosophy - PhD",
+            "fieldOfStudy": "Mechanical Engineering",
+            "linkedInUrl": "https://www.linkedin.com/company/8047/",
+            "schoolLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEp7y5pXmG5Rw/company-logo_400_400/company-logo_400_400/0/1698652588840/stellenbosch_university_logo?e=1751500800&v=beta&t=UNgNvGLMi-BK4YDQSh-JlScfie-FBoe0md33gT8V8S0",
+            "schoolName": "Stellenbosch University",
+            "startEndDate": {
+              "start": {
+                "month": 1,
+                "year": 2017
+              },
+              "end": {
+                "month": 1,
+                "year": 2021
+              }
+            }
+          },
+          {
+            "degreeName": "Bachelor of Engineering - BEng",
+            "fieldOfStudy": "Mechanical Engineering",
+            "linkedInUrl": "https://www.linkedin.com/company/8047/",
+            "schoolLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEp7y5pXmG5Rw/company-logo_400_400/company-logo_400_400/0/1698652588840/stellenbosch_university_logo?e=1751500800&v=beta&t=UNgNvGLMi-BK4YDQSh-JlScfie-FBoe0md33gT8V8S0",
+            "schoolName": "Stellenbosch University",
+            "startEndDate": {
+              "start": {
+                "month": 1,
+                "year": 2013
+              },
+              "end": {
+                "month": 1,
+                "year": 2016
+              }
+            }
+          },
+          {
+            "degreeName": "National Senior Certificate",
+            "fieldOfStudy": null,
+            "linkedInUrl": "https://www.linkedin.com/company/83057780/",
+            "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQE1q1B2q3Waig/company-logo_400_400/company-logo_400_400/0/1660565554704?e=1751500800&v=beta&t=bimpr8VcDcl6sInvNjyqig1YJtlfaMxStGJw3e2unfk",
+            "schoolName": "Hoërskool Framesby",
+            "startEndDate": {
+              "start": {
+                "month": 1,
+                "year": 2008
+              },
+              "end": {
+                "month": 1,
+                "year": 2012
+              }
+            }
+          }
+        ]
+      },
+      "skills": [
+        "Generative AI Tools",
+        "Prompt Engineering",
+        "Thermofluid Dynamics",
+        "Computational Fluid Dynamics (CFD)",
+        "Research",
+        "OpenFOAM",
+        "Python",
+        "Git",
+        "Agile Environment",
+        "Markdown",
+        "Software Testing",
+        "Verification and Validation (V&V)",
+        "Linux",
+        "High Performance Computing (HPC)",
+        "MATLAB",
+        "Autodesk Inventor",
+        "Artificial Intelligence (AI)",
+        "Administration",
+        "Residential Investment Property",
+        "Company Set-up",
+        "UX Research",
+        "Design Thinking",
+        "Rheology",
+        "Retrospectives",
+        "Team Leadership",
+        "Arc Welding",
+        "Mechanical Engineering",
+        "Technical Writing",
+        "Requirements Gathering",
+        "Requirement Specifications",
+        "Risk Management",
+        "Agile Project Management",
+        "Critical Thinking",
+        "Agile Methodologies",
+        "Agile Software Development",
+        "Software Product Management",
+        "SQL Server Analysis Services (SSAS)",
+        "Software Documentation",
+        "Data Engineering",
+        "Automotive Engineering"
+      ],
+      "languages": [
+        "Afrikaans",
+        "English"
+      ],
+      "languagesWithProficiency": [
+        {
+          "language": "Afrikaans",
+          "proficiency": "Native or bilingual proficiency"
+        },
+        {
+          "language": "English",
+          "proficiency": "Full professional proficiency"
+        }
+      ],
+      "recommendations": {
+        "recommendationsCount": 0,
+        "recommendationHistory": []
+      },
+      "certifications": {
+        "certificationsCount": 13,
+        "certificationHistory": [
+          {
+            "name": "Python for Data Science, AI & Development",
+            "organizationName": "IBM",
+            "organizationUrl": "https://www.linkedin.com/company/1009/",
+            "issuedDate": "Issued Mar 2025"
+          },
+          {
+            "name": "AI Foundations for Everyone Specialization",
+            "organizationName": "IBM",
+            "organizationUrl": "https://www.linkedin.com/company/1009/",
+            "issuedDate": "Issued Feb 2025"
+          },
+          {
+            "name": "Building AI Powered Chatbots Without Programming",
+            "organizationName": "IBM",
+            "organizationUrl": "https://www.linkedin.com/company/1009/",
+            "issuedDate": "Issued Feb 2025"
+          },
+          {
+            "name": "Generative AI: Prompt Engineering Basics",
+            "organizationName": "IBM",
+            "organizationUrl": "https://www.linkedin.com/company/1009/",
+            "issuedDate": "Issued Feb 2025"
+          },
+          {
+            "name": "Generative AI: Introduction and Applications",
+            "organizationName": "IBM",
+            "organizationUrl": "https://www.linkedin.com/company/1009/",
+            "issuedDate": "Issued Jan 2025"
+          },
+          {
+            "name": "Introduction to Artificial Intelligence (AI)",
+            "organizationName": "IBM",
+            "organizationUrl": "https://www.linkedin.com/company/1009/",
+            "issuedDate": "Issued Jan 2025"
+          },
+          {
+            "name": "Foundations of User Experience (UX) Design",
+            "organizationName": "Google Career Certificates",
+            "organizationUrl": "https://www.linkedin.com/company/79681348/",
+            "issuedDate": "Issued Oct 2024"
+          },
+          {
+            "name": "Software Product Management Specialization",
+            "organizationName": "University of Alberta",
+            "organizationUrl": "https://www.linkedin.com/company/93251553/",
+            "issuedDate": "Issued Aug 2024"
+          },
+          {
+            "name": "Reviews & Metrics for Software Improvements",
+            "organizationName": "University of Alberta",
+            "organizationUrl": "https://www.linkedin.com/company/93251553/",
+            "issuedDate": "Issued Jul 2024"
+          },
+          {
+            "name": "Agile Planning for Software Products",
+            "organizationName": "University of Alberta",
+            "organizationUrl": "https://www.linkedin.com/company/93251553/",
+            "issuedDate": "Issued May 2024"
+          },
+          {
+            "name": "Client Needs and Software Requirements",
+            "organizationName": "University of Alberta",
+            "organizationUrl": "https://www.linkedin.com/company/93251553/",
+            "issuedDate": "Issued Mar 2024"
+          },
+          {
+            "name": " Software Processes and Agile Practices",
+            "organizationName": "University of Alberta",
+            "organizationUrl": "https://www.linkedin.com/company/93251553/",
+            "issuedDate": "Issued Dec 2023"
+          },
+          {
+            "name": "Introduction to Software Product Management",
+            "organizationName": "University of Alberta",
+            "organizationUrl": "https://www.linkedin.com/company/93251553/",
+            "issuedDate": "Issued Oct 2023"
+          }
+        ]
+      },
+      "testScores": {
+        "testScoresCount": 0,
+        "testScoreHistory": []
+      },
+      "volunteeringExperiences": {
+        "volunteeringExperiencesCount": 0,
+        "volunteeringExperienceHistory": []
+      },
+      "interests": {}
+    },
+    "company": {
+      "linkedInId": "1079198",
+      "name": "ENGYS",
+      "universalName": "engys",
+      "linkedInUrl": "https://www.linkedin.com/company/1079198",
+      "employeeCount": 53,
+      "followerCount": 7116,
+      "employeeCountRange": {
+        "start": 51,
+        "end": 200
+      },
+      "websiteUrl": "http://engys.com",
+      "tagline": "Innovation through CFD",
+      "description": "As a market leader in the development and application of open-source technologies for CFD and design optimisation, ENGYS® offers a comprehensive range of customer-driven CFD products and services for enterprise engineering. We strive at creating innovative solutions for a wide range of global industries to help engineers design next-generation products that are both efficient and environmentally friendly. Our open-source CFD products include HELYX® and ELEMENTS, as well as a wide selection of add-on modules for continuous adjoint optimisation, naval hydrodynamic design and block-coupled solvers. \n\nOur company operates globally through a network of offices in the UK, Germany, Italy, Greece, USA, Brazil and Australia, and local distributors in Japan, Korea, Spain, Portugal and USA.",
+      "industry": "Software Development",
+      "phone": null,
+      "specialities": [
+        "CFD",
+        "CAE",
+        "Optimisation",
+        "Open Source",
+        "Automotive",
+        "Aerospace",
+        "Petrochemical",
+        "Reaction Engineering",
+        "Simulation",
+        "AEC",
+        "High Performance Computing"
+      ],
+      "headquarter": {
+        "city": "London",
+        "country": "GB",
+        "postalCode": "SW18 3SX",
+        "geographicArea": "Wandsworth",
+        "street1": null,
+        "street2": null
+      },
+      "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFsDqfwGIH3bw/company-logo_400_400/company-logo_400_400/0/1730141120808/engys_logo?e=1751500800&v=beta&t=jvOt3ej54xVi61HEV2B_qs6TIXXRE-OopgJlydzl5q4",
+      "foundedOn": {
+        "year": 2009
+      },
+      "fundingData": null,
+      "backgroundUrl": "https://media.licdn.com/dms/image/v2/D4D1BAQFWbQU3Uxa8bw/company-background_10000/company-background_10000/0/1730140558160/engys_cover?e=1746453600&v=beta&t=x-Am0fVZ-owqlPqWFOd2c8iCJVYAmb0f1o13VIVbYkM"
+    }
+  }
