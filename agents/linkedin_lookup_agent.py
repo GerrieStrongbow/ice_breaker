@@ -30,7 +30,7 @@ def lookup(name: str) -> str:
         Tool(
             name="Crawl Google for linkedin profile page",
             func=get_profile_url_tavily,
-            description="Useful for you need to get the LinkedIn Page URL",  # This is what the LLM will use to determine if the tool will be useful for what it is trying to do.
+            description="Useful for you to get the LinkedIn Page URL",  # This is what the LLM will use to determine if the tool will be useful for what it is trying to do.
         )
     ]
 
